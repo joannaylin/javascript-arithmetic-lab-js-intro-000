@@ -1,4 +1,4 @@
-add(a,b)
+return add(a,b)
 subtract()
 multiple()
 divide()
