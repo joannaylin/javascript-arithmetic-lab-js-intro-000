@@ -17,4 +17,6 @@ function decrement(n) {
   n -= 1
 }
 
-makeInt(n)
+function makeInt(n) {
+  parseInt(n)
+}
