@@ -17,4 +17,4 @@ function decrement(n) {
   n -= 1
 }
 
-makeInt(n,10) 
+makeInt(n) = parseInt(n, 10) 
